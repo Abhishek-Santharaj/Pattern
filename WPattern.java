@@ -32,3 +32,12 @@ public class WPattern {
 		}
 		}
 }
+
+/* Output 
+
+ *           * *           *
+   *       *     *       *
+     *   *         *   *
+       *             *
+
+*/
