@@ -21,7 +21,7 @@ public class Pattern2 {
 }
 
 
-/* Output
+/*  Output
      1 
     1 2 
    1 2 3 
